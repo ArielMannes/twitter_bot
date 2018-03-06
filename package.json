@@ -1,0 +1,28 @@
+{
+  "name": "tweeter_boot",
+  "version": "1.0.0",
+  "description": "my own bot ",
+  "main": "bot.js",
+  "scripts": {
+	"start":"node bot.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielMannes/twitter_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "tutorial"
+  ],
+  "author": "Ariel Mannes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArielMannes/twitter_bot/issues"
+  },
+  "homepage": "https://github.com/ArielMannes/twitter_bot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
